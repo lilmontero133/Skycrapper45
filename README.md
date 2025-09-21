@@ -1,1 +1,2 @@
-# Skycrapper45
+# DSA_Assignments
+Data Structure and algorithm assignments
